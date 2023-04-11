@@ -1,6 +1,6 @@
 # 5thsem-internship-project
 
 Member Names-
-Bristi Dakshi
-Aniket Samaddar
+Bristi Dakshi,
+Aniket Samaddar,
 Debasis Mandal
